@@ -182,4 +182,8 @@ hr {
   li {
     font-size: 16px;
   }
+
+  article {
+    border-radius: 0;
+  }
 }
