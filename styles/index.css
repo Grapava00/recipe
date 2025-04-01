@@ -68,3 +68,8 @@ li {
 .label {
   font-weight: 600;
 }
+
+.section-title {
+  color: var(--brown-800);
+  font-size: 30px;
+}
