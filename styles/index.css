@@ -124,3 +124,22 @@ li {
   text-indent: 9px;
   margin-left: 20px;
 }
+
+.nutrition-table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.nutrition-row {
+  border-bottom: 1.5px solid var(--stone-150);
+}
+
+.nutrition-row td {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.nutrition-label {
+  padding-left: 30px;
+}
