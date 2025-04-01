@@ -59,3 +59,8 @@ h1 {
 .preparation-section .section-title {
   color: var(--rose-800);
 }
+
+li {
+  font-size: 20px;
+  line-height: 2;
+}
