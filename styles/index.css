@@ -73,3 +73,7 @@ li {
   color: var(--brown-800);
   font-size: 30px;
 }
+
+.item {
+  color: #5f564d;
+}
