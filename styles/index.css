@@ -49,3 +49,9 @@ h1 {
   font-style: normal;
   font-size: 38px;
 }
+
+.recipe-description {
+  color: var(--stone-600);
+  font-size: 19.5px;
+  line-height: 1.5;
+}
