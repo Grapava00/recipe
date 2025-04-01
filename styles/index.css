@@ -177,4 +177,8 @@ hr {
   .preparation-section .section-title {
     font-size: 25px;
   }
+
+  li {
+    font-size: 16px;
+  }
 }
