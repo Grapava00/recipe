@@ -17,3 +17,14 @@
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: var(--stone-100);
+  font-family: "Outfit";
+  font-weight: normal;
+  font-style: normal;
+  padding: 128px 0 128px 0;
+}
