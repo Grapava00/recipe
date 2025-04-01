@@ -77,3 +77,16 @@ li {
 .item {
   color: #5f564d;
 }
+
+.nutrition-description {
+  color: #5f564d;
+  margin-bottom: 5px;
+}
+
+.nutrition-label {
+  color: #5f564d;
+}
+
+.nutrition-value {
+  color: var(--brown-800);
+}
