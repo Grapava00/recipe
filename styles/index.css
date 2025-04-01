@@ -186,4 +186,12 @@ hr {
   article {
     border-radius: 0;
   }
+
+  img {
+    position: absolute;
+    max-width: 375px;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
 }
