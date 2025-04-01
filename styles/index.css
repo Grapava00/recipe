@@ -28,3 +28,13 @@ body {
   font-style: normal;
   padding: 128px 0 128px 0;
 }
+
+article {
+  max-width: 736px;
+  width: 100%;
+  padding: 40px;
+  border-radius: 24px;
+  background-color: #ffffff;
+}
+
+
