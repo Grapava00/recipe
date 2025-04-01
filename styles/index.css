@@ -173,4 +173,8 @@ hr {
   .recipe-description {
     font-size: 15px;
   }
+
+  .preparation-section .section-title {
+    font-size: 25px;
+  }
 }
