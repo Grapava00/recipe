@@ -160,3 +160,6 @@ hr {
 .bold-label {
   font-weight: bold;
 }
+
+@media (max-width: 375px) {
+}
