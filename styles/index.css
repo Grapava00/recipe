@@ -169,4 +169,8 @@ hr {
     font-size: 30px;
     margin-top: 150px;
   }
+
+  .recipe-description {
+    font-size: 15px;
+  }
 }
