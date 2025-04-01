@@ -164,6 +164,7 @@ hr {
 @media (max-width: 375px) {
   body {
     padding: 0;
+    position: relative;
   }
   h1 {
     font-size: 30px;
